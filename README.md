@@ -7,5 +7,5 @@ HI
 >Language:
 >- SQL,
 >- Python,
->-       Haskell
+>- Haskell
   
