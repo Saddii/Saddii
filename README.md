@@ -5,7 +5,7 @@ HI
 >
 >🛠️ Tools
 >* Language:
->        -SQL,
->        -Python,
->        -Haskell
+>-        SQL,
+>        Python,
+>        Haskell
   
