@@ -1,5 +1,5 @@
 📚Projects
->   Welcome to my portfolio, where I showcase my [portfolio](https://github.com/Saddii/Portfolio)
+>   Welcome to my profile, where I showcase my [portfolio](https://github.com/Saddii/Portfolio)
 
 🛠️ Tools
 >- SQL,
