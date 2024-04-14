@@ -1,5 +1,5 @@
 # 📚Projects
-   Welcome to my profile, where I showcase my [portfolio](https://github.com/Saddii/Portfolio)
+   Hi, I'm Dominik Welcome to my profile, where I showcase my [portfolio](https://github.com/Saddii/Portfolio)
 
 🛠️ Tools
 - SQL,
